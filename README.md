@@ -4,4 +4,4 @@
 
 现有文章：
 
-[YYText & Core Text](https://github.com/Folobe26/iOS-learning-Notes/blob/master/%E3%80%90Apr%E3%80%91YYText.pdf)
+[YYText & Core Text](https://github.com/Folobe26/iOS-learning-Notes/tree/master/CoreText)
